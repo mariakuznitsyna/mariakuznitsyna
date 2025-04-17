@@ -7,7 +7,7 @@
 
 ### 💡 About Me
 
-I'm a versatile tech professional with a background in IT service management and a growing passion for Python development, data analysis, and building meaningful, user-friendly tools. I enjoy creating clear, structured solutions—whether it's automating manual processes, analyzing datasets, or designing clean UIs.
+I'm a versatile tech professional with a background in IT service management and a growing passion for Python development, data analysis, and building meaningful, user-friendly tools. I enjoy creating clear, structured solutions — whether it's automating manual processes, analyzing datasets, or designing clean UIs. I also love building desktop and mobile apps - take a look at my projects! 
 
 🔧 Currently upskilling through **“100 Days of Code”** (Udemy) and practicing algorithms + data structures to sharpen my problem-solving toolkit.
 
@@ -29,6 +29,9 @@ Here are a few things I've been working on:
 
 - 📦 **[100 Days of Code (In Progress)](https://github.com/mariakuznitsyna/100-days-of-code)**  
   A deep dive into Python fundamentals, OOP, web development, and data apps.
+  
+- ☕ **[Just Java](https://github.com/mariakuznitsyna/JustJava)**  
+  A one-screen coffee shop application to order coffee at a local coffee place and send them an email. 
 
 ---
 
