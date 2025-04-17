@@ -29,6 +29,9 @@ Here are a few things I've been working on:
 
 - 📦 **[100 Days of Code (In Progress)](https://github.com/mariakuznitsyna/100-days-of-code)**  
   A deep dive into Python fundamentals, OOP, web development, and data apps.
+
+- 🧠 **[LeetCode Solutions](https://github.com/mariakuznitsyna/leetcode-solutions)**
+  My solutions to coding challenges from [LeetCode](https://leetcode.com)
   
 - ☕ **[Just Java](https://github.com/mariakuznitsyna/JustJava)**  
   A one-screen coffee shop application to order coffee at a local coffee place by sending them an email. 
