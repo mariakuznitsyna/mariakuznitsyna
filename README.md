@@ -15,8 +15,8 @@ I'm a versatile tech professional with a background in IT service management and
 
 ### 🧰 Tech Stack
 
-- 💻 **Languages**: Python, Java, JavaScript, HTML/CSS, SQL  
-- 📊 **Data Tools**: Pandas, NumPy, Matplotlib, SPSS  
+- 💻 **Languages**: Python, Java, XML, JavaScript, HTML/CSS, SQL  
+- 📊 **Data Tools**: Pandas, NumPy, Matplotlib, SPSS, Requests, SMTP, Tkinter
 - 🧠 **Learning**: Scikit-learn, Flask, Git, REST APIs  
 - 🖌️ **Design**: Figma, Photoshop, Illustrator  
 - 🧩 **Other**: BMC Remedy, Jira, Trello, Notion, Excel
@@ -31,7 +31,7 @@ Here are a few things I've been working on:
   A deep dive into Python fundamentals, OOP, web development, and data apps.
   
 - ☕ **[Just Java](https://github.com/mariakuznitsyna/JustJava)**  
-  A one-screen coffee shop application to order coffee at a local coffee place and send them an email. 
+  A one-screen coffee shop application to order coffee at a local coffee place by sending them an email. 
 
 ---
 
