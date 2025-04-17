@@ -27,8 +27,8 @@ I'm a versatile tech professional with a background in IT service management and
 
 Here are a few things I've been working on:
 
-- 📦 **[100 Days of Code (In Progress)](https://github.com/mariakuznitsyna/100-days-of-code)**  
-  A deep dive into Python fundamentals, OOP, web development, and data apps.
+- ✏️ **[Dash Plotly Clientbase app](https://github.com/mariakuznitsyna/dash-app-clientdata-v2/tree/main)**
+  App for interactive insights on client data. You can access the deployed version here on Render [](https://dash-app-clientdata-v2.onrender.com/)
 
 - 🧠 **[LeetCode Solutions](https://github.com/mariakuznitsyna/leetcode-solutions)**
   My solutions to coding challenges from [LeetCode](https://leetcode.com)
