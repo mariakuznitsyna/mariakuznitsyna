@@ -27,14 +27,8 @@ I'm a versatile tech professional with a background in IT service management and
 
 Here are a few things I've been working on:
 
-- 🐍 **[Python Portfolio Projects](https://github.com/mariakuznitsyna/python-portfolio)**  
-  Personal Python scripts that solve real-life problems and automate daily tasks.
-
-- 📦 **[100 Days of Code (In Progress)](https://github.com/mariakuznitsyna/100-Days-of-Code)**  
+- 📦 **[100 Days of Code (In Progress)](https://github.com/mariakuznitsyna/100-days-of-code)**  
   A deep dive into Python fundamentals, OOP, web development, and data apps.
-
-- ✨ **[Personal Website](https://www.mariakuznitsyna.com)**  
-  Designed and coded from scratch — my digital resume, projects, and design portfolio.
 
 ---
 
@@ -53,8 +47,3 @@ Here are a few things I've been working on:
 - 📧 mariakuznitsyna@gmail.com  
 - 💻 [LinkedIn](https://www.linkedin.com/in/mariakuznitsyna/)  
 - 🧠 Open to internships, mentorship, and junior roles in Python, data, or tech UX
-
----
-
-> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
-
