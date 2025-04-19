@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maria
 
-🎯 Junior Python Developer | Data Enthusiast | UX-focused Problem Solver  
+🎯 Product-minded Developer & Project Manager  
 📍 Based in Israel | 🌐 [mariakuznitsyna.com](https://www.mariakuznitsyna.com)
 
 ---
