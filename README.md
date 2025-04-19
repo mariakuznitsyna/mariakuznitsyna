@@ -16,7 +16,7 @@ I'm a versatile tech professional with a background in IT service management and
 ### 🧰 Tech Stack
 
 - 💻 **Languages**: Python, Java, XML, JavaScript, HTML/CSS, SQL  
-- 📊 **Data Tools**: Pandas, NumPy, Matplotlib, SPSS, Requests, SMTP, Tkinter
+- 📊 **Data Tools**: Pandas, NumPy, Matplotlib, SPSS, Requests, SMTP, Tkinter, Dash Plotly
 - 🧠 **Learning**: Scikit-learn, Flask, Git, REST APIs  
 - 🖌️ **Design**: Figma, Photoshop, Illustrator  
 - 🧩 **Other**: BMC Remedy, Jira, Trello, Notion, Excel
