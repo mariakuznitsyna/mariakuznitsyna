@@ -30,6 +30,9 @@ Here are a few things I've been working on:
 - ✏️ **[Dash Plotly Clientbase app](https://github.com/mariakuznitsyna/dash-app-clientdata-v2/tree/main)**
   Web app for interactive insights on client data. You can access the deployed version [here on Render](https://dash-app-clientdata-v2.onrender.com/)
 
+- 🍽️ **[GetEating 2.0 ](https://github.com/mariakuznitsyna/GetEating-2.0-Public)**
+  Mobile app that suggests meals based on your dietary preferences. Don’t know what to eat tonight? Let us choose for you. You can [download APK here](https://drive.google.com/drive/folders/1Tgqpp-9BUCMondQC7toVGpmRQRrJhlFU?usp=sharing)
+  
 - 🧠 **[LeetCode Solutions](https://github.com/mariakuznitsyna/leetcode-solutions)**
   My solutions to coding challenges from [LeetCode](https://leetcode.com)
   
@@ -52,4 +55,4 @@ Here are a few things I've been working on:
 - 💼 [Portfolio Website](https://www.mariakuznitsyna.com)  
 - 📧 mariakuznitsyna@gmail.com  
 - 💻 [LinkedIn](https://www.linkedin.com/in/mariakuznitsyna/)  
-- 🧠 Open to internships, mentorship, and junior roles in Python, data, or tech UX
+- 🧠 Open to internships, mentorship, and junior roles in anything dev
