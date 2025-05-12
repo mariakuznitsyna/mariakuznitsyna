@@ -7,7 +7,7 @@
 
 ### 💡 About Me
 
-I'm a versatile tech professional with a background in IT service management and a growing passion for Python development, data analysis, and building meaningful, user-friendly tools. I enjoy creating clear, structured solutions — whether it's automating manual processes, analyzing datasets, or designing clean UIs. I also love building desktop and mobile apps - take a look at my projects! 
+I'm a Junior Full-Stack Developer with a background in IT project management and service delivery. I build web and mobile applications using JavaScript, React, and Python, and I enjoy turning ideas into working products. Here you can find some of my best projects. 
 
 🔧 Currently upskilling through **“100 Days of Code”** (Udemy) and practicing algorithms + data structures to sharpen my problem-solving toolkit.
 
@@ -15,7 +15,7 @@ I'm a versatile tech professional with a background in IT service management and
 
 ### 🧰 Tech Stack
 
-- 💻 **Languages**: Python, Java, XML, JavaScript, HTML/CSS, SQL  
+- 💻 **Languages**: Python, Java, XML, JavaScript(React, React Native), HTML/CSS, SQL
 - 📊 **Data Tools**: Pandas, NumPy, Matplotlib, SPSS, Requests, SMTP, Tkinter, Dash Plotly
 - 🧠 **Learning**: Scikit-learn, Flask, Git, REST APIs  
 - 🖌️ **Design**: Figma, Photoshop, Illustrator  
